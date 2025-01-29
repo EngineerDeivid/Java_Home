@@ -1,0 +1,18 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Ru_do_while" type="Application" factoryName="Application" activateToolWindowBeforeRun="false" singleton="false" nameIsGenerated="true">
+    <option name="ALTERNATIVE_JRE_PATH" value="17" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="envFilePaths">
+      <option value="$PROJECT_DIR$/.." />
+    </option>
+    <option name="MAIN_CLASS_NAME" value="Ru_do_while" />
+    <module name="00_General_Syntaxis" />
+    <option name="PROGRAM_PARAMETERS" value="$USER_HOME$/.m2/repository$MAVEN_REPOSITORY$" />
+    <selectedOptions>
+      <option name="environmentVariables" visible="false" />
+    </selectedOptions>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

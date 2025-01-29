@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="true" type="Application" factoryName="Application" activateToolWindowBeforeRun="false">
+    <option name="ALTERNATIVE_JRE_PATH" value="17" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="envFilePaths">
+      <option value="$PROJECT_DIR$/.." />
+    </option>
+    <module name="00_General_Syntaxis" />
+    <option name="PROGRAM_PARAMETERS" value="$MAVEN_REPOSITORY$" />
+    <option name="WORKING_DIRECTORY" value="$FileDir$" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

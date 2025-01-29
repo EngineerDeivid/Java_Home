@@ -1,0 +1,8 @@
+# Ignorar archivos grandes y binarios
+*.class
+*.jar
+*.war
+*.ear
+/modules
+00_General_Syntaxis/01_OOP/src/main/java/OOP_04_Polymorphism/classMain/Oracle_JDK-21/lib/modules
+00_General_Syntaxis/01_OOP/target/classes/OOP_04_Polymorphism/classMain/Oracle_JDK-21/lib/modules
